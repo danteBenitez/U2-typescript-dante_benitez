@@ -1,4 +1,4 @@
-import { Car } from "./09-clase-con-privadas.js";
+import { Car } from "./09-clase-con-privadas";
 
 class ElectricCar extends Car {
     batteryLife: number = 0
