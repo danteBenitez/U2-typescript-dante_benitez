@@ -1,7 +1,7 @@
 enum Color {
-    RED = "Red",
-    GREEN = "Green",
-    BLUE = "Blue"
+    Red = "Red",
+    Green = "Green",
+    Blue = "Blue"
 }
 
 function getColorName(color: Color) {
